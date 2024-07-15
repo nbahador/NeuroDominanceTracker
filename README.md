@@ -8,7 +8,7 @@
 
 If you use this software in your research, please cite it as follows:
 
-Bahador, N., Zhang, L., Lankarany, M., & Skinner, F. (2024). Neuro Dominance Tracker: A Software for Identification, Localization, and Characterization of Dominant Rhythm in Neural Time Series (Version 2024.1). Available from https://github.com/nbahador.
+Bahador, N., Zhang, L., Lankarany, M., & Skinner, F. (2024). Neuro Dominance Tracker: A Software for Identification, Localization, and Characterization of Dominant Rhythm in Neural Time Series (Version 2024.1). Available from https://github.com/nbahador/NeuroDominanceTracker.git
 
 
 
