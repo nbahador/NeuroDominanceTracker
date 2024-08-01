@@ -4,8 +4,11 @@
 
 ## Software Contributions
 Nooshin Bahador: Conceptualization (designed research), Methodology, Data Analysis, Writing, Coding, Software Development, User Interface Design nooshin.bah@gmail.com
+
 Milad Lankarany: Conceptualization, Supervision milad.lankarany@uhn.ca 
+
 Liang Zhang: Conceptualization, Data Collection, Validation, Reviewing liang.zhang@uhn.ca
+
 Frances Skinner: Conceptualization, Funding Acquisition, Supervision, Project Management, Validation frances.skinner@gmail.com
 
 
