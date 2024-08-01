@@ -2,13 +2,18 @@
 
 **A Software for Identification, Localization, and Characterization of Dominant Rhythm in Neural Time Series (e.g., EEG, LFP)**
 
+## Software Contributions
+Nooshin Bahador: Conceptualization (designed research), Methodology, Data Analysis, Writing, Coding, Software Development, User Interface Design nooshin.bah@gmail.com
+Milad Lankarany: Conceptualization, Supervision milad.lankarany@uhn.ca 
+Liang Zhang: Conceptualization, Data Collection, Validation, Reviewing liang.zhang@uhn.ca
+Frances Skinner: Conceptualization, Funding Acquisition, Supervision, Project Management, Validation frances.skinner@gmail.com
 
 
 ## Citation
 
 If you use this software in your research, please cite it as follows:
 
-Bahador, N., Zhang, L., Lankarany, M., & Skinner, F. (2024). Neuro Dominance Tracker: A Software for Identification, Localization, and Characterization of Dominant Rhythm in Neural Time Series (Version 2024.1). Available from https://github.com/nbahador/NeuroDominanceTracker.git
+N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A Software for Identification and Characterization of Theta Rhythms in the Hippocampus. Available from https://github.com/nbahador/NeuroDominanceTracker.git
 
 
 
@@ -44,37 +49,4 @@ Bahador, N., Zhang, L., Lankarany, M., & Skinner, F. (2024). Neuro Dominance Tra
 
 ### 7. Save Features
 - Click the button to save the features as an Excel file.
-
-
-
-## Contributions
-
-**Nooshin Bahador**: 
-- Conceptualization
-- Methodology
-- Data Analysis
-- Writing
-- Coding
-- Software Development
-- User Interface Design
-nooshin.bah@gmail.com
-
-**Liang Zhang**: 
-- Conceptualization
-- Data Collection
-- Validation
-- Reviewing
-liang.zhang@uhn.ca
-
-**Milad Lankarany**: 
-- Funding Acquisition
-- Supervision
-milad.lankarany@gmail.com
-
-**Frances Skinner**: 
-- Funding Acquisition
-- Supervision
-- Project Management
-- Validation
-frances.skinner@gmail.com
 
